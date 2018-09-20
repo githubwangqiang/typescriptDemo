@@ -1,0 +1,12 @@
+var d = new Date();
+var da1 = new Date(1000);
+var da2 = new Date(2000);
+var d1 = new Date('2018/09/06 05:30:00');
+var d2 = new Date('2018-09-06 05:30:00');
+var d3 = new Date('2018-09-06T05:30:00');
+console.log(d);
+console.log(da1);
+console.log(da2);
+console.log(d1);
+console.log(d2);
+console.log(d3);
